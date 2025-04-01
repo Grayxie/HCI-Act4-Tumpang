@@ -1,0 +1,102 @@
+.icons{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.fa-meta
+{
+    font-size: 70px;
+    color: skyblue
+}
+.fa-app-store
+{
+    font-size: 70px;
+    color: blue;
+}
+.fa-registered
+{
+    font-size: 70px;
+    color: rgb(200, 154, 243);
+}
+.fa-yahoo
+{
+    font-size: 70px;
+        color: darkmagenta;
+    }
+.fa-google
+{
+     font-size: 70px;
+     color: red
+}
+.fa-registered
+{
+    font-size: 70px;
+    color: rgb(200, 154, 243);
+}
+.fa-at
+{
+    font-size: 70px;
+    color: rgb(66, 66, 255)
+}
+.fa-copyright
+{
+    font-size: 70px;
+    color: rgb(255, 183, 0)
+}
+.fa-edge-legacy
+{
+    font-size: 70px;
+    color: rgb(20, 173, 173)
+}
+.fa-tumblr
+{
+    font-size: 70px;
+    color: pink
+}
+.fa-umbraco
+{
+    font-size: 70px;
+    color: magenta
+}
+.fa-brands .fa-meta
+{
+    font-size: 70px;
+    color: aqua
+}
+.fa-product-hunt
+{
+    font-size: 70px;
+    color: navajowhite
+}
+.fa-at
+{
+    font-size: 70px;
+    color: rgb(66, 66, 255)
+}
+.fa-neos
+{
+    font-size: 70px;
+    color: rgb(92, 255, 59)
+}
+.fa-google
+{
+     font-size: 70px;
+     color: red
+}
+body{
+    background-image:url(image/background.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+header{
+    background-image: url(image/background1.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: auto;
+    box-shadow: 10px 10px 100px 10px rgb(0, 0, 0)
+
+}
